@@ -1,3 +1,9 @@
 # HW18-Blockchain
 
-![Streamlit Screenshot](Images\Captures d’écran\Screenshot 2023-09-28 213848.png)
+![basic](Images/
+# Screenshots 
+
+
+![Streamlit Screenshot](Images/Screenshot%202023-09-28%20213848.png)
+
+![Streamlit Screenshot](Images/Screenshot%202023-09-28%20213913.png)
